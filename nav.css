@@ -1,0 +1,46 @@
+#logo{
+
+    margin-top:-0.25%;
+    width: 30%;
+    position: fixed;
+    margin-left:1%;
+}
+#logout{
+    position: fixed;
+    margin-left: 90%;
+    margin-top: 3.5%;
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+}
+#color{
+    position: fixed;
+    background: #608EE2;
+    height: 2%;
+    width: 100%;
+    margin-top: 6%;
+}
+.sidepanel{
+    position: fixed;
+    margin-top: 6.9%;
+    background: #608EE2;
+    height: 92%;
+    width: 15%;
+}
+.sidebuttons{
+    background-color: transparent;
+    width: 100%;
+    height: 10%;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-top: -20%;
+    font-size: 20px;
+
+}
+.sideimg{
+    margin-left: 3%;
+    margin-top: 1%;
+    margin-bottom: -16%;
+    width: 20%;
+}

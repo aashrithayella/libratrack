@@ -1,0 +1,46 @@
+.circle{
+    position: absolute;
+    height:17%;
+    width:8%;
+    margin-left: 48.5%;
+    margin-top:14%;
+    border-radius: 50%;
+    background-color: #B1CBFA;
+}
+#checkmark{
+        position: absolute;
+        height:8.2%;
+        width:4.8%;
+        margin-left: 50%;
+        margin-top:16.2%;
+    
+    
+}
+.successful{
+    position: absolute;
+    margin-left: 43.4%;
+    margin-top:24%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 170%;
+}
+.text{
+    position: absolute;
+    margin-left: 41.5%;
+    margin-top:28.5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 170%;
+}
+.ok{
+    margin-top:34%;
+    margin-left: 49%;
+    position:absolute;
+    font-size: 140%;
+    font-family: Arial, Helvetica, sans-serif;
+    width:7.2%;
+    height:5.2%;
+    background-color:#B1CBFA;
+    border-color:#B1CBFA;
+    border-radius:20em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
